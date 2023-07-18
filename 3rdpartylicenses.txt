@@ -13,8 +13,6 @@ MIT
 @angular/router
 MIT
 
-angular-world
-
 file-saver
 MIT
 The MIT License
